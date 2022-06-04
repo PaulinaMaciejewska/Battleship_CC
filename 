@@ -1,0 +1,63 @@
+[33mcommit 20f8bfd553dabf60b0f4dc9f57a023c7d185ea92[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m)[m
+Merge: ce86ed7 5a74066
+Author: Arkadiusz Bojara <bojara.arkadiusz@gmail.com>
+Date:   Wed May 25 19:47:24 2022 +0200
+
+    Merge branch 'development' of https://github.com/CodecoolGlobal/battleship-python-PaulinaMaciejewska into development
+
+[33mcommit ce86ed7fe8704d5815dfa9ebc1fff0ba94653901[m
+Merge: 650c4c4 bb1d90b
+Author: Arkadiusz Bojara <bojara.arkadiusz@gmail.com>
+Date:   Wed May 25 19:26:00 2022 +0200
+
+    Merge branch 'development' of https://github.com/CodecoolGlobal/battleship-python-PaulinaMaciejewska into development
+
+[33mcommit 5a74066a62191e24ed8d503c793d0606fd25b073[m
+Merge: 650c4c4 bb1d90b
+Author: Arkadiusz Bojara <bojara.arkadiusz@gmail.com>
+Date:   Wed May 25 19:26:00 2022 +0200
+
+    Merge branch 'development' of https://github.com/CodecoolGlobal/battleship-python-PaulinaMaciejewska into development
+
+[33mcommit 650c4c45ea633f87d6a163d25fdcf62323cb6437[m
+Author: Arkadiusz Bojara <bojara.arkadiusz@gmail.com>
+Date:   Wed May 25 19:23:15 2022 +0200
+
+    ten git to kit
+
+[33mcommit bb1d90b3355b5c1c5a7836ef63e98afc6afb9a56[m
+Author: Arkadiusz Bojara <bojara.arkadiusz@gmail.com>
+Date:   Wed May 25 19:23:15 2022 +0200
+
+    ten git to kit
+
+[33mcommit c6a63d9bff926830932ec04b6f367d0b10d5d83d[m
+Merge: f7758e9 c3e4eec
+Author: Arkadiusz Bojara <bojara.arkadiusz@gmail.com>
+Date:   Wed May 25 19:21:06 2022 +0200
+
+    Merge branch 'development' of https://github.com/CodecoolGlobal/battleship-python-PaulinaMaciejewska into development
+
+[33mcommit f7758e9bed03606967786c5fd4c5239a11474166[m
+Author: Arkadiusz Bojara <bojara.arkadiusz@gmail.com>
+Date:   Wed May 25 18:39:46 2022 +0200
+
+    Merge branch 'PAULA' of https://github.com/CodecoolGlobal/battleship-python-PaulinaMaciejewska into AREK
+
+[33mcommit c3e4eecc496a8289090dd9103f4af12e5611026a[m[33m ([m[1;31morigin/AREK[m[33m)[m
+Author: Arkadiusz Bojara <bojara.arkadiusz@gmail.com>
+Date:   Wed May 25 18:39:46 2022 +0200
+
+    harytatywna pomoc
+
+[33mcommit 6ed004c783c0db6353dd2d4d5cdf19c792a72af0[m
+Author: Arkadiusz Bojara <bojara.arkadiusz@gmail.com>
+Date:   Mon May 23 21:46:56 2022 +0200
+
+    założenie bruncha
+
+[33mcommit 54286bcfda1771e4ca57d1820ec94119c4a94321[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: appuser <appuser@journey2-7857cc5545-shbp8>
+Date:   Sat May 21 07:10:44 2022 +0000
+
+    starter project
